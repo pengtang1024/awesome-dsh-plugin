@@ -1,0 +1,7 @@
+url: https://github.com/pengtang1024/dsh-clipboard-png
+name: pengtang1024/dsh-clipboard-png
+category: tools
+description:
+  en: 'Rewrites clipboard images that are not really PNG (WeChat screenshots arrive as BMP bytes announced as image/png) into real PNG on Linux Wayland, so pasting into the composer no longer fails the four-type image check.'
+  zh: '在 Linux Wayland 下把剪贴板里并非真 PNG 的图片（微信截图的 BMP 字节却声称是 image/png）就地转成真 PNG，让粘贴不再被四格式校验拒掉。'
+icon: https://raw.githubusercontent.com/pengtang1024/dsh-clipboard-png/master/assets/icon-180.png
